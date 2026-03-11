@@ -10,5 +10,8 @@ O projeto inclui CSS e manipulação de campos através do JS.
 - CSS3
 - Javascript (Vanilla JS)
 
-## DEMONSTRAÇÃO ONLINE
+## Demonstração Online
 Acesse https://aprendizr.github.io/FatecProgramacaoWeb/
+
+## Licença
+A licença deste software é **MIT**
